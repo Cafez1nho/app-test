@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vscode\\app\\app.csproj",
+      "projectUniqueName": "C:\\dev\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\vscode\\app\\app.csproj",
+      "projectPath": "C:\\dev\\app\\app.csproj",
       "packagesPath": "C:\\Users\\Cleberson\\.nuget\\packages\\",
-      "outputPath": "C:\\vscode\\app\\obj\\",
+      "outputPath": "C:\\dev\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cleberson\\AppData\\Roaming\\NuGet\\NuGet.Config"
